@@ -21,21 +21,9 @@ I'm Abdullah Alhattami, a passionate quality assurance and software engineering.
 
 ---
 
-## 🔭 Projects
-
-
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/abdullah-alhattami-b2750722a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdullah_Alhattami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdullah-Alhattami/)](https://www.linkedin.com/in/abdullah-alhattami-b2750722a/)
 
 
 
@@ -52,4 +40,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Flame1733&show_icons=true&theme=radical)
 -->
