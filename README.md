@@ -12,6 +12,11 @@ I'm Abdullah Alhattami, a passionate quality assurance and software engineering.
 
 ---
 
+# Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flame1733&layout=compact&theme=dark)](https://github.com/Flame1733)
+
+
 ## 🚀 Skills
 
 - Languages: Arabic and English 
