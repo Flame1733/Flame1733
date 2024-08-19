@@ -2,7 +2,7 @@
 
 I'm Abdullah Alhattami, a passionate quality assurance and software engineering.
 
-🌱 I’m currently learning machince learning to start Master degree jounry.
+🌱 I’m currently learning machince learning and others technology to start a Master degree jounry.
 
 💼 I'm working on Real estate managment system at Al hotami Arabian Cont. Company.
 
